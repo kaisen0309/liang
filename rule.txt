@@ -1,0 +1,11 @@
+<< Game Rule >>
+
+You have to select the number 1 , 2 , or 3, which 
+1 means scissors
+2 means stone
+3 means paper
+
+And then the computer, your opponent, will select the number randomly.
+And system will output the result.
+Then You can enter '1' to play again, or enter '0' to end the game. 
+
